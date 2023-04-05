@@ -1,9 +1,12 @@
-# Creating-360-deg-Views-From-Cameras-Viewing-the-Road-Scene
-Bachelor Project
+# Creating-360-deg-Views-From-Cameras-Viewing-the-Road-Scene Bachelor Project
 
-## Creating a Bird-Eye-View of the road scene using the LIFT-SPLAT-SHOOT Model https://github.com/nv-tlabs/lift-splat-shoot and improving its Intersection over Union (IoU) score
+### Creating a Bird-Eye-View of the road scene using the LIFT-SPLAT-SHOOT Model https://github.com/nv-tlabs/lift-splat-shoot and improving its Intersection over Union (IoU) score
 
-## An image processing pipeline was proposed to enhance the features of the training images
+### Model output
+![image](https://user-images.githubusercontent.com/62478103/230086405-f56eed73-87ab-4177-af56-3af6d3fead01.png)
+
+
+### An image processing pipeline was proposed to enhance the features of the training images
 ![image](https://user-images.githubusercontent.com/62478103/230084262-c0f340be-57be-4894-98b9-e03cc569836c.png)
 
 ![image](https://user-images.githubusercontent.com/62478103/230084383-5561fdbe-9e3c-43bb-9375-199e8e3bfc5e.png)
