@@ -3,7 +3,8 @@
 ### Creating a Bird-Eye-View of the road scene using the LIFT-SPLAT-SHOOT Model https://github.com/nv-tlabs/lift-splat-shoot and improving its Intersection over Union (IoU) score
 
 ### Model output
-![image](https://user-images.githubusercontent.com/62478103/230086405-f56eed73-87ab-4177-af56-3af6d3fead01.png)
+![eval](https://user-images.githubusercontent.com/62478103/230086740-be358d84-6901-4327-8c0a-7758622b574e.gif)
+
 
 
 ### An image processing pipeline was proposed to enhance the features of the training images
@@ -16,6 +17,9 @@
 
 
 ![image](https://user-images.githubusercontent.com/62478103/230085710-6a3e7f4c-c9e4-4024-8f13-26a095b5daef.png)
+
+
+![image](https://user-images.githubusercontent.com/62478103/230086995-b8bd1c62-08cf-4c10-883b-3d5cd4b43d88.png)
 
 
 
