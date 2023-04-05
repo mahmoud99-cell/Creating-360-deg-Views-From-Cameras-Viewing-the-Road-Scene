@@ -7,7 +7,7 @@
 
 
 
-### An image processing pipeline was proposed to enhance the features of the training images
+### An image processing pipeline was proposed to enhance the features of the images before training
 ![image](https://user-images.githubusercontent.com/62478103/230084262-c0f340be-57be-4894-98b9-e03cc569836c.png)
 
 ![image](https://user-images.githubusercontent.com/62478103/230084383-5561fdbe-9e3c-43bb-9375-199e8e3bfc5e.png)
@@ -19,7 +19,8 @@
 ![image](https://user-images.githubusercontent.com/62478103/230085710-6a3e7f4c-c9e4-4024-8f13-26a095b5daef.png)
 
 
-![image](https://user-images.githubusercontent.com/62478103/230086995-b8bd1c62-08cf-4c10-883b-3d5cd4b43d88.png)
+![image](https://user-images.githubusercontent.com/62478103/230088241-c7c7d72c-b4f0-445b-a00f-a9ecf5c16ebb.png)
+
 
 
 
